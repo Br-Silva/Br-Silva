@@ -2,20 +2,20 @@
 
 #### Bem-vindo ao meu perfil do GitHub.
 
- - 👀 Tenho graduação em Letras.
- - 🌱 Atualmente estou estudando linguagens de programações diversas, como Java, Python e Kotlin.
- - 💞️ Tenho interesse em desenvolvimento mobile e ciência de dados. 
- - 📚 Estou fazendo o Santander Bootcamp Mobile Developer da DIO.
+ - :mortar_board: Tenho graduação em Letras.
+ - 🌱 Atualmente estou cursando Bacharelado em Tecnologia da Informação na Univesp.
+ - :telescope: Tenho interesse em programação e Quality Assurance. 
+ - 📚 Estou fazendo cursos diversos na Alura nas áreas do meu interesse.
  - 📫 Aqui está meu linktree: https://linktr.ee/br_silva 
 
 #### Technologies
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/03/com001-600x600.jpg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/03/com001-600x600.jpg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 </p>
 
 
